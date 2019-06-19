@@ -1,0 +1,125 @@
+{
+	"groups": [
+		{
+			"keys": "shoot,explosion_small,bg_music,bg_jpg,bg2_jpg,me_png,bulletme_png,enemy_png,enemy_json,eb_png,boosHit_png,boosHit_json,boss_png,bossb_png,bbuff_png,power_png,hpadd_png,hpb_png,hpv_png,over_png,winPoint_png,fire_png,fire_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/shootmp3.mp3",
+			"type": "sound",
+			"name": "shoot"
+		},
+		{
+			"url": "assets/explosion.wav",
+			"type": "sound",
+			"name": "explosion_small"
+		},
+		{
+			"url": "assets/music.mp3",
+			"type": "sound",
+			"name": "bg_music"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/bg2.jpg"
+		},
+		{
+			"name": "me_png",
+			"type": "image",
+			"url": "assets/me.png"
+		},
+		{
+			"name": "bulletme_png",
+			"type": "image",
+			"url": "assets/bulletme.png"
+		},
+		{
+			"name": "enemy_png",
+			"type": "image",
+			"url": "assets/enemy.png"
+		},
+		{
+			"name": "enemy_json",
+			"type": "json",
+			"url": "assets/enemy.json"
+		},
+		{
+			"name": "eb_png",
+			"type": "image",
+			"url": "assets/eb.png"
+		},
+		{
+			"name": "boosHit_png",
+			"type": "image",
+			"url": "assets/boosHit.png"
+		},
+		{
+			"name": "boosHit_json",
+			"type": "json",
+			"url": "assets/boosHit.json"
+		},
+		{
+			"name": "boss_png",
+			"type": "image",
+			"url": "assets/boss.png"
+		},
+		{
+			"name": "bossb_png",
+			"type": "image",
+			"url": "assets/bossb.png"
+		},
+		{
+			"name": "bbuff_png",
+			"type": "image",
+			"url": "assets/bbuff.png"
+		},
+		{
+			"name": "power_png",
+			"type": "image",
+			"url": "assets/power.png"
+		},
+		{
+			"name": "hpadd_png",
+			"type": "image",
+			"url": "assets/hpadd.png"
+		},
+		{
+			"name": "hpb_png",
+			"type": "image",
+			"url": "assets/hpb.png"
+		},
+		{
+			"name": "hpv_png",
+			"type": "image",
+			"url": "assets/hpv.png"
+		},
+		{
+			"name": "over_png",
+			"type": "image",
+			"url": "assets/over.png"
+		},
+		{
+			"name": "winPoint_png",
+			"type": "image",
+			"url": "assets/winPoint.png"
+		},
+		{
+			"name": "fire_png",
+			"type": "image",
+			"url": "assets/fire.png"
+		},
+		{
+			"name": "fire_json",
+			"type": "json",
+			"url": "assets/fire.json"
+		}
+	]
+}

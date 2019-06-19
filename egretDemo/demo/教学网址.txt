@@ -1,0 +1,7 @@
+1. egret入门： http://edn.egret.com/cn/docs/page/579
+2. egret教学：http://edn.egret.com/cn/example/page/index#010-disp-basic
+2. egret实战 :  http://edn.egret.com/cn/index.php/portal/article/index/id/678
+
+4. egret视频教学：https://www.bilibili.com/video/av10639427?from=search&seid=4297028189298143439
+
+
